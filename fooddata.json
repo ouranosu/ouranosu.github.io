@@ -1,46 +1,48 @@
-{
-    "popular": [
-        {
-            "name": "onigiri",
-            "imageUrl": "onigiri.png",
-            "rating": "5.0",
-            "delivarytime": "5 mins",
-            "price": "150",
-            "note": "rice ball"
-        },
-        {
-            "name": "dashimaki",
-            "imageUrl": "dashimaki.png",
-            "rating": "5.0",
-            "delivarytime": "5 mins",
-            "price": "300",
-            "note": "soup roll"
-        },
-        {
-            "name": "umeboshi",
-            "imageUrl": "umeboshi.png",
-            "rating": "3.0",
-            "delivarytime": "1 mins",
-            "price": "10000",
-            "note": "salted plam"
-        }
-    ],
-    "rice": [
-        {
-            "name": "onigiri",
-            "imageUrl": "onigiri.png",
-            "rating": "5.0",
-            "delivarytime": "5 mins",
-            "price": "150",
-            "note": "rice ball"
-        },
-        {
-            "name": "gyudon",
-            "imageUrl": "gyudon.png",
-            "rating": "5.0",
-            "delivarytime": "5 mins",
-            "price": "600",
-            "note": "beef rice"
-        }
-    ]
-}
+[
+    {
+        "popular": [
+            {
+                "name": "onigiri",
+                "imageUrl": "onigiri.png",
+                "rating": "5.0",
+                "delivarytime": "5 mins",
+                "price": "150",
+                "note": "rice ball"
+            },
+            {
+                "name": "dashimaki",
+                "imageUrl": "dashimaki.png",
+                "rating": "5.0",
+                "delivarytime": "5 mins",
+                "price": "300",
+                "note": "soup roll"
+            },
+            {
+                "name": "umeboshi",
+                "imageUrl": "umeboshi.png",
+                "rating": "3.0",
+                "delivarytime": "1 mins",
+                "price": "10000",
+                "note": "salted plam"
+            }
+        ],
+        "rice": [
+            {
+                "name": "onigiri",
+                "imageUrl": "onigiri.png",
+                "rating": "5.0",
+                "delivarytime": "5 mins",
+                "price": "150",
+                "note": "rice ball"
+            },
+            {
+                "name": "gyudon",
+                "imageUrl": "gyudon.png",
+                "rating": "5.0",
+                "delivarytime": "5 mins",
+                "price": "600",
+                "note": "beef rice"
+            }
+        ]
+    }
+]
